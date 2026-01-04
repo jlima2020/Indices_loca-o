@@ -2,7 +2,6 @@
 
 As fontes tratam das atualizações e diretrizes da Lei do Inquilinato para o período de 2025 e 2026, com foco na maior segurança jurídica e formalização dos contratos de locação. O conteúdo detalha a obrigatoriedade de documentos escritos que especifiquem índices de reajuste, como o IPCA ou o IGP-M, além de reforçar as responsabilidades distintas entre proprietários e inquilinos. Um ponto central é a implementação da Reforma Tributária, que introduz os impostos IBS e CBS para locadores com múltiplos imóveis ou rendas elevadas a partir de 2026. Os textos também apresentam dados econômicos sobre a deflação do IGP-M no final de 2025 e as projeções de inflação que impactam diretamente o custo da moradia. No geral, as informações servem como um guia para que as partes evitem conflitos e compreendam as novas exigências de tributação e garantias locatícias.
 
-Hoje • 12:04
 fazer uma análise se o aluguel aumentará quanto pode ser ajustado segundo os índices econômicos para o inquilino
 
 Com base nos documentos fornecidos, a análise sobre o aumento do aluguel e os índices de reajuste para o inquilino em 2026 revela um cenário de divergência entre os principais indicadores econômicos.
@@ -24,6 +23,8 @@ Considerando um aluguel de R$ 2.500,00 com aniversário em janeiro de 2026:
 5. Fatores de Pressão e Defesa do Inquilino
 • Reforma Tributária (LC 214/2025): Grandes locadores (com mais de 3 imóveis ou receita superior a R$ 240 mil/ano) podem tentar repassar novos custos tributários (CBS e IBS) para os novos aluguéis, o que pode pressionar os preços de mercado acima dos índices de inflação.
 • Jurisprudência e Negociação: A tendência atual do mercado e do Judiciário é de "moralização", privilegiando o IPCA como teto para evitar abusos. Inquilinos têm o direito de contestar aumentos superiores aos índices oficiais, que podem ser anulados judicialmente.
+
+projeto no link: https://notebooklm.google.com/notebook/c54f3d49-c54e-4441-951c-50d7b3b4c99a
 • Negociação Direta: Em casos de IGP-M negativo, as fontes sugerem que o inquilino tente manter o valor nominal (sem redução, mas sem aumento) para garantir a estabilidade e a permanência no imóvel.
 Em suma, se o seu contrato for regido pelo IPCA, o aluguel subirá cerca de 4% a 4,5%; se for pelo IGP-M, há margem para negociar a manutenção do valor ou até uma pequena redução no início de 2026.
 Para entender melhor, imagine que o IPCA e o IGP-M são como dois termômetros medindo a febre da economia em cômodos diferentes da casa: enquanto o IPCA sente o calor do consumo das famílias (compras e serviços), o IGP-M sente a temperatura do quintal (o preço das matérias-primas e do dólar). Atualmente, o "quintal" esfriou, mas a "sala" continua aquecida.
